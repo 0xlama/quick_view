@@ -1,0 +1,26 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "title": "PE micro",
+      "url": "https://www.nxp.com/docs/en/user-guide/U-CYCLONEUG.pdf",
+      "description": "Cyclone Universal & Cyclone Universal FX User Manual",
+      "category": "Hardware"
+    },
+    {
+      "id": 2,
+      "title": "ATmega328P",
+      "url": "https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf",
+      "description": "ATmega328P Datasheet",
+      "category": "Microcontroller"
+    },
+    {
+      "id": 3,
+      "title": "Raspberry Pi Downloads",
+      "url": "https://downloads.raspberrypi.org/",
+      "description": "The Raspberry Pi Downloads page offers software and operating systems for Raspberry Pi devices.",
+      "category": "Microcontroller"
+    }
+  ],
+  "lastUpdated": "2024-02-19"
+}
