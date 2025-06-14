@@ -20,7 +20,14 @@
       "url": "https://downloads.raspberrypi.org/",
       "description": "The Raspberry Pi Downloads page offers software and operating systems for Raspberry Pi devices.",
       "category": "Microcontroller"
+    },
+	  {
+      "id": 4,
+      "title": "RL78/G16 User’s Manual: Hardware ",
+      "url": "https://www.renesas.com/en/document/mah/rl78g16-users-manual-hardware",
+      "description": "RL78/G16 User's Manual: Hardware.",
+      "category": "Microcontroller"
     }
   ],
-  "lastUpdated": "2024-02-19"
+  "lastUpdated": "2025-06-14"
 }
